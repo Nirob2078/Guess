@@ -1,0 +1,97 @@
+.boxs{
+
+    position: relative;
+
+    width: 200px;
+    height: 60px;
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    font-size: large;
+    font-weight: 600;
+    
+    color: red;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+.win{
+
+    background-color: yellowgreen;
+}
+
+.body{
+    position: relative;
+
+    height: 760px;
+    width: 350px;
+
+   background-color: darkgray;
+   text-align: center;
+   margin: auto;
+   border:black 4px dashed;
+   margin-top: 10px;
+}
+.box-0{
+
+    position: relative;
+    margin-bottom: 20px;
+
+}
+.inpts{
+
+    width:180px;
+    height: 28px;
+    outline: none;
+    text-align: center;
+    font-size: medium;
+
+}
+.ediv  h2{
+    position: relative;
+   
+
+     text-align: center;
+  
+      color: white;
+      
+}
+.ediv{
+
+    background-color: crimson;
+    width: 250px;
+    height: 98px;
+    margin:auto;
+}
+.dinpt{
+    position: relative;
+    
+    margin-left: 10px;
+    height: 45px;
+    outline: none;
+    text-align: center;
+    color:red;
+    
+    
+
+
+}
+h1{
+
+    text-align: center;
+    box-sizing: border-box;
+    font-weight: bolder;
+    
+  
+}
+.wdiv{
+
+    background-color: white;
+    width: 200px;
+    height: 55px;
+    margin:auto;
+    border: 2px black solid;
+
+
+}
